@@ -1,0 +1,20 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgreen;
+    margin:0 10px 10px 0;
+    padding-bottom: 5px;
+}
+.product-name{
+    margin: 30px;
+    font-weight: 400;
+}
+.product-name h4{
+    color: rgb(84, 106, 131);
+}
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgb(29, 28, 28);
+    border-radius: 5px;
+}
